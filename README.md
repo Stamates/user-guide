@@ -32,7 +32,7 @@ I believe in the importance of transparency in helping to build trust. To provid
 
 ### Style
 
-In an effort to limit misunderstandings or relying poor assumptions, I tend to use the following styles of communication:
+In an effort to limit misunderstandings or relying on poor assumptions, I tend to use the following styles of communication:
 
 - Succinct and organized. Blaise Pascal is quoted as saying "I would have written you a shorter letter, but I didn't have the time", to capture the sentiment that being succinct requires more effort than "stream of consiousness" styles of communication. I believe this effort is worth it.
   - I try to be as clear and concise as possible, with an emphasis on using proper terms and vocabulary
